@@ -7,3 +7,11 @@
 4. I have installed the prisma extension in vscode.
 5. I have set up the prismed database
 6. I have worked this much in day 1 and will complete this project in 12 days.
+7. Completed 30 min
+
+
+## Commands used - 
+
+1. cd server
+2. npx prisma db push
+3. npx prisma generate - this will update fields users and residency in mongoDB
