@@ -13,6 +13,9 @@
 8. Without JWT authentication - one route is done
 9. User Route setup is done
 10. to test the user already registered - send API (POST) again
+11. All the routes have been added
+12. Testing done using JSON data - 1:34:10 done.
+
 
 ## Commands used - 
 
