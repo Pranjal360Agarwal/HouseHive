@@ -21,7 +21,7 @@
 
 Try running the command without the ./ notation:
 
-
+15. Server side part completed.
 
 
 ## Commands used - 
